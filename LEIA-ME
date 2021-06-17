@@ -1,0 +1,6 @@
+Para recompilar, segue o comando:
+javac simturing.java
+
+Para executar no terminal, tem que colocar java na frente do nome do programa.
+ex:
+java simturing -head "()" -s 12 palindromo.mt
